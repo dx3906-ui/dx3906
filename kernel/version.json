@@ -1,5 +1,5 @@
 {
-  "version": 2026102001,
-  "note": "",
-  "zip_sha256": "666d3069b65cbb86a70ab37f37fba0d4b9cb8bd9da4b5177a1e8a1d103b4adaf"
+  "version": 2026110101,
+  "note": "manifest 码源重排（wudrm/steamrun 优先）+ 内核配置内建，dx3906.toml 退役",
+  "zip_sha256": "a4f8942b5a9bd278766b553d2d4e105e191cca494e4dd557b5c74477d2a19bce"
 }
